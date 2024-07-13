@@ -2,7 +2,7 @@
 	"arrowParens": "always",
 	"bracketSpacing": true,
 	"plugins": ["prettier-plugin-tailwindcss"],
-	"printWidth": 144,
+	"printWidth": 120,
 	"proseWrap": "always",
 	"semi": true,
 	"singleQuote": false,
